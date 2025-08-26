@@ -36,7 +36,7 @@ When I’m not coding, you can find me exploring new places, writing, or working
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keenshi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-mohiuddin&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
