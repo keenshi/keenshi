@@ -1,7 +1,7 @@
-<p alignitems="center">
+<div align="center">
   <h3 > Hi, I’m Masood Ahmed Mohiuddin 👋🏼 </h3>
   <h6> Computer Science Master's Student</h6>
-</p>
+</div>
 <hr>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/LinkedIn-Logo.png", a="https://www.linkedin.com/in/masood-ahmed-mohiuddin/" width="15%" >
 -  Graduated in Engineering with majors in Computer Information Systems and Computer Science...
