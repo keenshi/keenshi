@@ -32,7 +32,7 @@ Languages and Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keenshi&show_icons=true&theme=radical" alt="GitHub Stats"/>
