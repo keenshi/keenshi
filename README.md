@@ -1,4 +1,4 @@
-<p align="center">
+<p alignitems="center">
   <h3 > Hi, I’m Masood Ahmed Mohiuddin 👋🏼 </h3>
   <h6> Computer Science Master's Student</h6>
 </p>
