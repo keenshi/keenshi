@@ -5,7 +5,7 @@
 - Email         || masood.ahmed.mohiuddin01@gmail.com  
 - Student Email || 160419737043@mjcollege.ac.in
 
-<h3> *Currently hiding some projects for privacy. Contact for access. </h3>
+
 <!---
 keenshi/keenshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
