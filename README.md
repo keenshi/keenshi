@@ -12,14 +12,12 @@
   </a>
 </p>
 
----
 
 I am a Master’s student in International Management at Hochschule Fulda, Germany.  
 I am passionate about **IT, Cloud Computing, Data Science, and Web Development**.  
 I love working in diverse teams, contributing to projects that make an impact, and continuously learning new technologies.  
 When I’m not coding, you can find me exploring new places, writing, or working out. ✨  
 
----
 
 Languages and Tools  
 
@@ -36,9 +34,6 @@ Languages and Tools
 </p>
 
 
----
-
-GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keenshi&show_icons=true&theme=radical" alt="GitHub Stats"/>
