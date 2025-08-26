@@ -19,7 +19,7 @@ I love working in diverse teams, contributing to projects that make an impact, a
 When I’m not coding, you can find me exploring new places, writing, or working out. ✨  
 
 
-<h4 align="center">Languages and Tools  </h4>
+<h3 align="center">Languages and Tools  </h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="40" height="40" />
