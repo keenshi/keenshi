@@ -13,7 +13,7 @@
 </p>
 
 
-I am a Master’s student in International Management at Hochschule Fulda, Germany.  
+I am a Master’s student in Computer Science at Hochschule Fulda, Germany.  
 I am passionate about **IT, Cloud Computing, Data Science, and Web Development**.  
 I love working in diverse teams, contributing to projects that make an impact, and continuously learning new technologies.  
 When I’m not coding, you can find me exploring new places, writing, or working out. ✨  
