@@ -1,14 +1,57 @@
-<div align="center">
-  <h3 > Hi, I’m Masood Ahmed Mohiuddin 👋🏼 </h3>
-  <h6 margin="0px" padding="0px"> Computer Science Master's Student</h6>
-</div>
-<hr>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/LinkedIn-Logo.png", a="https://www.linkedin.com/in/masood-ahmed-mohiuddin/" width="15%" >
--  Graduated in Engineering with majors in Computer Information Systems and Computer Science...
--  I’m looking to collaborate on any projects that catch my interest ...
--  You could contact me...
-- Email         || masood.ahmed.mohiuddin01@gmail.com  
-- Student Email || 160419737043@mjcollege.ac.in
+<h1 align="center">Hey! I'm Masood 👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🙋 About Me  
+I am a Master’s student in International Management at Hochschule Fulda, Germany.  
+I am passionate about **IT, Cloud Computing, Data Science, and Web Development**.  
+I love working in diverse teams, contributing to projects that make an impact, and continuously learning new technologies.  
+When I’m not coding, you can find me exploring new places, writing, or working out. ✨  
+
+---
+
+### 🛠️ Languages and Tools  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
 
 
 <!---
