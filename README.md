@@ -30,7 +30,7 @@ When I’m not coding, you can find me exploring new places, writing, or working
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="40" />
   <img src="https://github.com/github/explore/blob/main/topics/git/git.png" width="40" height="40" />
   <img src="https://camo.githubusercontent.com/1e169f71fc9ed248abe0abaeebcd1524e058c5be3386a619569b9a4be2963288/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" height="40" />
+  <img src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="40" height="40" />
 </p>
 
