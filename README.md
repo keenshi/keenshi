@@ -1,4 +1,4 @@
--  <h3 align="center"> Hi, I’m Masood Ahmed Mohiuddin </h3>
+  <h3 align="center"> Hi, I’m Masood Ahmed Mohiuddin 👋🏼 </h3>
 <hr>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/LinkedIn-Logo.png", a="https://www.linkedin.com/in/masood-ahmed-mohiuddin/" width="15%" >
 -  Graduated in Engineering with majors in Computer Information Systems and Computer Science...
