@@ -22,16 +22,10 @@ When I’m not coding, you can find me exploring new places, writing, or working
 <h3 align="center">Languages and Tools  </h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="40" />
-  <img src="https://github.com/github/explore/blob/main/topics/git/git.png" width="40" height="40" />
-  <img src="https://camo.githubusercontent.com/1e169f71fc9ed248abe0abaeebcd1524e058c5be3386a619569b9a4be2963288/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/0debfa67f9f3c13a0fd8155eebcf0eeae13be2cd3c018a73481d7c4b33d3e393/68747470733a2f2f6d6f6e676f64622e636f6d2f6173736574732f696d616765732f676c6f62616c2f66617669636f6e2e69636f" width="40" height="40" />
-  
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,react,nodejs,postgres,git,nest,mongodb,tailwind" />
+</p>
+</p>
 
 ---
 
