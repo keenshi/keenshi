@@ -1,17 +1,14 @@
-<h1 align="center">Hey! I'm Masood 👋</h1>
+<h1 align="center" >Hi! I'm Masood Ahmed Mohiuddin👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/masood-ahmed-mohiuddin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:masood.ahmed.mohiuddin01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://keenshi.github.io/masood.github.io/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsSmktCumb_iC43PQ_ogNSOStMPeLWQh97Q&s"/>
   </a>
 </p>
 
