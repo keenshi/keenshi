@@ -16,7 +16,7 @@
 I am a Master’s student in Computer Science in Germany.  
 I am passionate about ** Cybersecurity, IT Networking, Cloud Computing, Data Science, and Web Development**.  
 I love working in diverse teams, contributing to projects that make an impact, and continuously learning new technologies.  
-When I’m not coding, you can find me exploring new places, writing, or working out. ✨  
+When I’m not securing and coding, you can find me exploring new places, writing, or working out. ✨  
 
 
 <h3 align="center">Cybersecurity, SOC & Analytics Stack</h3>
