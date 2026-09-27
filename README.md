@@ -14,10 +14,26 @@
 
 
 I am a Master’s student in Computer Science in Germany.  
-I am passionate about **IT, Cloud Computing, Data Science, and Web Development**.  
+I am passionate about ** Cybersecurity, IT Networking, Cloud Computing, Data Science, and Web Development**.  
 I love working in diverse teams, contributing to projects that make an impact, and continuously learning new technologies.  
 When I’m not coding, you can find me exploring new places, writing, or working out. ✨  
 
+
+<h3 align="center">Cybersecurity, SOC & Analytics Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,splunk,linux,bash,py,azure,aws,powerbi" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM / SOC-000000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vanta (GRC)-5E42DA?style=for-the-badge&logo=vanta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 <h3 align="center">Languages and Tools  </h4>
 
