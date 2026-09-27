@@ -34,7 +34,7 @@ When I’m not coding, you can find me exploring new places, writing, or working
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=chartdotpie&logoColor=black" />
 </p>
 
-<h3 align="center">Languages and Tools  </h4>
+<h3 align="center">Development Tools  </h4>
 
 <p align="center">
   <p align="center">
