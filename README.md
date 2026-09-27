@@ -22,7 +22,7 @@ When I’m not coding, you can find me exploring new places, writing, or working
 <h3 align="center">Cybersecurity, SOC & Analytics Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,bash,py,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,py,azure,aws" />
 </p>
 
 <p align="center">
