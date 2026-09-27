@@ -22,17 +22,16 @@ When I’m not coding, you can find me exploring new places, writing, or working
 <h3 align="center">Cybersecurity, SOC & Analytics Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,splunk,linux,bash,py,azure,aws,powerbi" />
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,bash,py,azure,aws" />
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIEM / SOC-000000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vanta (GRC)-5E42DA?style=for-the-badge&logo=vanta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SIEM%20%2F%20SOC-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vanta_(GRC)-5E42DA?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=chartdotpie&logoColor=black" />
 </p>
 
 <h3 align="center">Languages and Tools  </h4>
