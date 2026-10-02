@@ -43,7 +43,7 @@ When I’m not securing and coding, you can find me exploring new places, writin
 </p>
 
 ---
-
+<!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-mohiuddin&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
@@ -51,7 +51,7 @@ When I’m not securing and coding, you can find me exploring new places, writin
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masood-ahmed-mohiuddin&theme=radical" alt=""/>
 </p>
-
+--->
 
 
 
